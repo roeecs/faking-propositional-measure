@@ -1,0 +1,45 @@
+Faking High Condition
+
+'As a member of the Faking group, you are requested to deliberately manipulate your test results for both a computer task and a questionnaire. You'll now be presented with a hypothetical scenario. Please immerse yourself in the situation and proceed to complete the task and questionnaire as if you were genuinely experiencing it.
+
+==========
+
+You've been jobless for a year and are referred by an employment agency to a potential job. This job has substantial advantages: a friendly boss, a very high salary, and very flexible hours. The company requests you to complete a computer-based task and questionnaire, evaluating your extraversion, a crucial trait for success in this role.
+
+As a reminder, extraversion measures sociability, assertiveness, and self-confidence. High scorers (extraverts) are sociable, talkative, active, impulsive, and outgoing. Low scorers (introverts) are reserved, quiet, shy, passive, and thoughtful.
+
+So, you really want to get this wonderful job. However, there are many applicants, and only those with high extraversion scores will be selected.
+
+Thus, to secure this desired job, try to present yourself as extraverted as possible when completing the following computer task and questionnaire.'
+
+------------------------------------------------------
+
+Faking Low Condition
+
+'As a member of the Faking group, you are requested to deliberately manipulate your test results for both a computer task and a questionnaire. You'll now be presented with a hypothetical scenario. Please immerse yourself in the situation and proceed to complete the task and questionnaire as if you were genuinely experiencing it.
+
+==========
+
+You've been jobless for a year and are referred by an employment agency to a potential job. However, this job has significant drawbacks: an oppressive boss, a very low salary, and the likelihood of regular overtime. The company requests you to complete a computer-based task and questionnaire, evaluating your extraversion, a crucial trait for success in this role.
+
+As a reminder, extraversion measures sociability, assertiveness, and self-confidence. High scorers (extraverts) are sociable, talkative, active, impulsive, and outgoing. Low scorers (introverts) are reserved, quiet, shy, passive, and thoughtful.
+
+If the job is offered to you and you decline it, you will lose your unemployment benefits. However, there are few applicants, and only those with low extraversion scores will be able to avoid being selected.
+
+Thus, to avoid this terrible job, try to present yourself as introverted as possible when completing the following computer task and questionnaire.'
+
+------------------------------------------------------
+
+Manipulation Checks:
+
+1. [Multiple Choice]
+
+'Please complete this sentence:
+
+In the following computer task and questionnaire, I'll try to appear as ______  as possible.'
+
+2. [Free Text Entry]
+
+'Please complete this sentence:
+
+In this study, I was asked to try to appear as   ______   as possible.'

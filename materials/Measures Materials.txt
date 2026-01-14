@@ -1,0 +1,76 @@
+Questionnaire Items
+(A) Extraversion items (5):
+1. I am the life of the party
+2. I feel comfortable around people
+3. I start conversations
+4. I talk to a lot of different people at parties
+5. I don't mind being the center of attention
+
+(B) Introversion items (5):
+1. I don't talk a lot
+2. I keep in the background
+3. I have little to say
+4. I don't like to draw attention to myself
+5. I am quiet around strangers
+
+------------------------------------------------------
+
+qIAT Items
+(A) Extraversion items - Non-reversed (5):
+1. I am the life of the party
+2. I feel comfortable around people
+3. I start conversations
+4. I talk to a lot of different people at parties
+5. I don't mind being the center of attention
+
+(B) Extraversion items - Reversed (5):
+1. I don't talk a lot
+2. I keep in the background
+3. I have little to say
+4. I don't like to draw attention to myself
+5. I am quiet around strangers
+
+(C) True/False items - False (5):
+1. I am playing football on the grass
+2. I am sunbathing at the beach
+3. I am currently playing an electric guitar
+4. I am climbing a steep mountain
+5. I am buying groceries in the local grocery store
+
+(D True/False items - True (5):
+1. I am completing a computer task
+2. I am using the computer
+3. I am participating in a study on the internet
+4. I have my fingers placed on the keyboard
+5. I am looking at a computer screen
+
+------------------------------------------------------
+
+IAT items
+(A) Extraversion items (5):
+1. sociable
+2. talkative
+3. active
+4. impulsive
+5. outgoing
+
+(B) Introversion items (5):
+1. shy
+2. reticent
+3. passive
+4. deliberate
+5. reserved
+
+(C) Category items - Self (5):
+1. I
+2. me
+3. mine
+4. self
+5. myself
+
+(D) Category items - Others (5):
+1. others
+2. they
+3. them
+4. their
+5. theirs

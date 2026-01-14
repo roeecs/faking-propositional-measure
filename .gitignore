@@ -1,0 +1,22 @@
+# --- macOS ---
+.DS_Store
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Virtual environments ---
+.venv/
+venv/
+binder_test/
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+
+# --- Editor / IDE ---
+.vscode/
+.idea/
+
+# --- OS / misc ---
+Thumbs.db

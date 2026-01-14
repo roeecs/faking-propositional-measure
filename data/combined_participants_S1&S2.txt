@@ -1,0 +1,55 @@
+Column Codes and Descriptions
+==================================================
+
+index: Running ID 
+study: Study
+age: Age
+gender: Gender
+education: Education 
+language: First Language 
+birth_place: Country of Birth 
+location: current location 
+group: 0 - control / 1 - introversion / 2 - extraversion
+task: Task
+id: id from qIAT and IAT Analyzation
+t1_exclude: is excluded from t1?
+t1_dscore: t1 D score
+t2_exclude: is excluded from t2?
+t2_dscore: t2 D score
+Q1_A1: Answer for item 1 in questionnaire 1 (T1). I am the life of the party.
+Q1_A2 *: Answer for item 2 in questionnaire 1 (T1). I don't talk a lot. (Reversed item)
+Q1_A3 *: Answer for item 3 in questionnaire 1 (T1). I have little to say. (Reversed item)
+Q1_A4: Answer for item 4 in questionnaire 1 (T1). I feel comfortable around people.
+Q1_A5 *: Answer for item 5 in questionnaire 1 (T1). I keep in the background. (Reversed item)
+Q1_A6: Answer for item 6 in questionnaire 1 (T1). I start conversations.
+Q1_A7: Answer for item 7 in questionnaire 1 (T1). I talk to a lot of different people at parties.
+Q1_A8 *: Answer for item 8 in questionnaire 1 (T1). I don't like to draw attention to myself. (Reversed item)
+Q1_A9: Answer for item 9 in questionnaire 1 (T1). I don't mind being the center of attention.
+Q1_A10 *: Answer for item 10 in questionnaire 1 (T1). I am quiet around strangers. (Reversed item)
+t1_ques: t1 Questionnaire score
+Q2_A1: Answer for item 1 in questionnaire 2 (T2). I am the life of the party. 
+Q2_A2 *: Answer for item 2 in questionnaire 2 (T2). I don't talk a lot. (Reversed item) 
+Q2_A3 *: Answer for item 3 in questionnaire 2 (T2). I have little to say. (Reversed item) 
+Q2_A4: Answer for item 4 in questionnaire 2 (T2). I feel comfortable around people. 
+Q2_A5 *: Answer for item 5 in questionnaire 2 (T2). I keep in the background. (Reversed item) 
+Q2_A6: Answer for item 6 in questionnaire 2 (T2). I start conversations. 
+Q2_A7: Answer for item 7 in questionnaire 2 (T2). I talk to a lot of different people at parties. 
+Q2_A8 *: Answer for item 8 in questionnaire 2 (T2). I don't like to draw attention to myself. (Reversed item) 
+Q2_A9: Answer for item 9 in questionnaire 2 (T2). I don't mind being the center of attention. 
+Q2_A10 *: Answer for item 10 in questionnaire 2 (T2). I am quiet around strangers. (Reversed item) 
+t2_ques_computed: t2 Questionnaire score computed from all answers 
+t2_ques: t2 Questionnaire score
+t1_ques_norm: t1 Questionnaire score Normalised
+t2_ques_norm: t2 Questionnaire score Normalised
+1st check indicator: wrong answer in the 1st manipulation check (choice)
+2nd check: answer in the 2nd manipulation check (text) 
+2nd check indicator: wrong answer in the 2nd manipulation check (text)?
+exclude: is excluded from entire sudy?
+exclude_t1: Is excluded from T1?
+dscore_paired_even_t1: Dscore of paired even trials in T1
+dscore_paired_odd_t1: Dscore of paired odd trials in T1
+exclude_t2: Is excluded from T2?
+dscore_paired_even_t2: Dscore of paired even trials in T2
+dscore_paired_odd_t2: Dscore of paired odd trials in T2
+t1_com_d_norm: t1 D score Normalised (computed from T1 baseline)
+t2_com_d_norm: t2 D score Normalised (computed from T1 baseline) 
