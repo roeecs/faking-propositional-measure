@@ -2,6 +2,11 @@
 
 This repository contains the code, materials, data, and analyses for a research study on faking behavior in implicit association tests (IAT) and questionnaire-based IAT (qIAT) measures of extraversion.
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/roeecs/faking-propositional-measure/master)
+
+You can launch an interactive Jupyter environment with all required dependencies using Binder by clicking the badge above. This allows you to explore the analysis notebooks (`S1.ipynb`, `S2.ipynb`, and `figures.ipynb`) directly in your browser without needing to install anything locally.
+
+
 ## Project Structure
 
 ### Root Files
