@@ -2,26 +2,16 @@
 
 This repository contains the code, materials, data, and analyses for a research study on faking behavior in implicit association tests (IAT) and questionnaire-based IAT (qIAT) measures of extraversion.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/roeecs/faking-propositional-measure/master)
-
-You can launch an interactive Jupyter environment with all required dependencies using Binder by clicking the badge above. This allows you to explore the analysis notebooks (`S1.ipynb`, `S2.ipynb`, and `figures.ipynb`) directly in your browser without needing to install anything locally.
-
-
 ## Project Structure
-
-### Root Files
-
-#### `requirements.txt`
-Python package dependencies required for the project.
 
 ---
 
 ## `/analysis` Directory
 
-Contains Jupyter notebooks for data analysis and figure generation.
+Contains R scripts for data analysis and figure generation.
 
-### `S1.ipynb`
-**Study 1 Replication Analysis** - Comprehensive analysis notebook that replicates all results from Study 1 of the article. The notebook systematically goes through each analysis and statistic reported, including:
+### `S1.R`
+**Study 1 Replication Analysis** - Comprehensive analysis script that replicates all results from Study 1 of the article. The script systematically goes through each analysis and statistic reported, including:
 - Data loading and preprocessing
 - Participant exclusions
 - Statistical tests (t-tests, correlations, etc.)
@@ -30,8 +20,8 @@ Contains Jupyter notebooks for data analysis and figure generation.
 - Correlation comparisons using Fisher z transformation
 - All reported statistics and results for Study 1
 
-### `S2.ipynb`
-**Study 2 Analysis** - Comprehensive analysis notebook containing all analyses for Study 2 of the article. Similar structure to S1.ipynb, including:
+### `S2.R`
+**Study 2 Analysis** - Comprehensive analysis script containing all analyses for Study 2 of the article. Similar structure to S1.R, including:
 - Data loading and preprocessing for Study 2
 - Participant exclusions
 - Statistical analyses specific to Study 2
@@ -39,10 +29,10 @@ Contains Jupyter notebooks for data analysis and figure generation.
 - Effect size calculations
 - All reported statistics and results for Study 2
 
-### `figures.ipynb`
-**Figures for Article** - Notebook dedicated to generating all figures for the article using combined participants data from both Study 1 and Study 2. Includes:
+### `figures.R`
+**Figures for Article** - R script dedicated to generating all figures for the article using combined participants data from both Study 1 and Study 2. Includes:
 - Data loading and preparation for visualization
-- Matplotlib figure generation with publication-quality settings
+- ggplot2 figure generation with publication-quality settings
 - Correlation plots
 - Group comparison visualizations
 - All figures reported in the article
@@ -130,9 +120,9 @@ Python script for parsing and analyzing qIAT data. Processes raw qIAT data files
 
 ### Running Analyses
 
-1. **For Study 1**: Open and run `analysis/S1.ipynb` in Jupyter
-2. **For Study 2**: Open and run `analysis/S2.ipynb` in Jupyter
-3. **For Figures**: Open and run `analysis/figures.ipynb` in Jupyter
+1. **For Study 1**: Run `analysis/S1.R` in R or RStudio
+2. **For Study 2**: Run `analysis/S2.R` in R or RStudio
+3. **For Figures**: Run `analysis/figures.R` in R or RStudio
 
 ### Processing Task Data
 
@@ -192,8 +182,8 @@ The IAT and qIAT tasks are designed to be embedded in Qualtrics surveys. The Jav
 - The project uses chunked processing for large datasets to manage memory efficiently
 - Exclusion criteria can be customized in the analysis functions
 - The qIAT analysis script supports both CSV and Excel input formats
-- All statistical analyses use standard Python scientific computing libraries
-- Figures are generated with publication-quality settings (300 DPI)
+- All statistical analyses use standard R statistical libraries
+- Figures are generated with ggplot2 using publication-quality settings (300 DPI)
 
 ---
 

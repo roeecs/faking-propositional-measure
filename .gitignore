@@ -9,7 +9,6 @@ __pycache__/
 # --- Virtual environments ---
 .venv/
 venv/
-binder_test/
 
 # --- Jupyter ---
 .ipynb_checkpoints/
@@ -20,3 +19,6 @@ binder_test/
 
 # --- OS / misc ---
 Thumbs.db
+
+# --- Ignore figures directory ---
+figures/
